@@ -6,7 +6,7 @@ do the same magic trick with the help of computer vision.
 I will code with python and use the opencv library.
 
 
-Requirements:
+#Requirements:
 
 
 -python(version above 3.5)
